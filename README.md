@@ -8,4 +8,4 @@
 
 **Old design, no more updated!**
 
-[Click here to see live project](https://soham-coder.github.io/chatbot-resume/index.html)
+[Click here to see live project](https://soham-coder.github.io/chatbot-resume/)
